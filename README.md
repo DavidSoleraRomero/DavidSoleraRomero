@@ -6,7 +6,7 @@ Tengo 17 años y me encanta dedicarle a diario tiempo tanto a aprender cosas nue
 Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar en materia incluso antes de darlo en el grado. <br>
 
 ### 📋 Proyectos 📋
-Actualmente, estoy subiendo en GitHub mi proyecto web llamado ### artificial-intelligence <br>
+Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> artificial-intelligence </strong> <br>
 En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés). <br>
 ![Image text](https://github.com/DavidSoleraRomero/DavidSoleraRomero/blob/main/ai-gif.gif)
 
@@ -16,8 +16,8 @@ Le he realizado algunos retoques, pero aún así es un logro que sean capaces de
 
 ### 📩 Contacto 📩
 Si deseas contactar conmigo, puedes hacerlo a través de estos correos: <br>
-soleraromerodavid@gmail.com (Personal) <br>
-dsolrom2312@g.educaand.es (Educativo) <br>
+<strong>soleraromerodavid@gmail.com (Personal) </strong> <br>
+<strong>dsolrom2312@g.educaand.es (Educativo) </strong> <br>
 
 <!--
 **DavidSoleraRomero/DavidSoleraRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

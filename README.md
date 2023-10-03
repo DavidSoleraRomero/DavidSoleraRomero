@@ -8,7 +8,7 @@ Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar
 ### 📋 Proyectos 📋
 Actualmente, estoy subiendo en GitHub mi proyecto web llamado ### artificial-intelligence
 En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés)
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/DavidSoleraRomero/DavidSoleraRomero/main/ai-logo.jpg</span><span>)</span>
+![Image text](https://github.com/DavidSoleraRomero/DavidSoleraRomero/blob/main/ai-logo.jpg)
 
 ### 🐱‍🏍 Dato curioso 🐱‍🏍
 El contenido de la web sobre IA, ¡está generado por IA en su mayoría!

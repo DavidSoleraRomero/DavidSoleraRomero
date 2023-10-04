@@ -4,7 +4,7 @@
 Mi nombre es David Solera Romero, soy un estudiante de DAM en el centro C.P.I.F.P Nuevo ubicado en Campanillas. <br>
 Tengo 17 años y me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
 Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar en materia incluso antes de darlo en el grado. <br>
-Además, tengo conocimientos en estos lenguajes de programación y herramientas varias: <br>
+Además, tengo conocimientos en estos lenguajes de programación y herramientas varias: <br> <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />

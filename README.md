@@ -1,10 +1,9 @@
-### 👋¡Bienvenido al perfil de DavidSoleraRomero!👋
-
-### ✍ Información personal ✍
+### ✍ ¡Bienvenido al perfil de DavidSoleraRomero! ✍
 Mi nombre es David Solera Romero, soy un estudiante de DAM en el centro C.P.I.F.P Nuevo ubicado en Campanillas. <br>
 Tengo 17 años y me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
 Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar en materia incluso antes de darlo en el grado. <br>
-Además, tengo conocimientos en estos <strong>lenguajes de programación y herramientas varias:</strong> <br> <br>
+
+### Lenguajes y herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
@@ -22,7 +21,6 @@ Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> artificia
 En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés). <br>
 <br>
 ![Image text](https://github.com/DavidSoleraRomero/DavidSoleraRomero/blob/main/ai-gif.gif)
-
 
 ### 😶‍🌫 Dato curioso 😶‍🌫️
 El contenido de la web sobre IA, ¡está generado por IA en su mayoría!

@@ -5,6 +5,12 @@ Mi nombre es David Solera Romero, soy un estudiante de DAM en el centro C.P.I.F.
 Tengo 17 años y me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
 Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar en materia incluso antes de darlo en el grado. <br>
 
+### 📋 Proyectos 📋
+Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> artificial-intelligence </strong> <br>
+En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés). <br>
+<br>
+![Image text](https://github.com/DavidSoleraRomero/DavidSoleraRomero/blob/main/ai-gif.gif)
+
 ### Lenguajes de programación y herramientas varias:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
@@ -18,13 +24,8 @@ Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar
 <img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" /><br><br>
 
-### 📋 Proyectos 📋
-Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> artificial-intelligence </strong> <br>
-En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés). <br>
-<br>
-![Image text](https://github.com/DavidSoleraRomero/DavidSoleraRomero/blob/main/ai-gif.gif)
 
-### 😶‍🌫️ Dato curioso 😶‍🌫️
+### 😶‍🌫 Dato curioso 😶‍🌫️
 El contenido de la web sobre IA, ¡está generado por IA en su mayoría!
 Le he realizado algunos retoques, pero aún así es un logro que sean capaces de generar tanto texto de calidad.
 

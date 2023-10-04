@@ -1,6 +1,6 @@
-### ✍ ¡Bienvenido al perfil de DavidSoleraRomero! ✍
-Mi nombre es David Solera Romero, soy un estudiante de DAM en el centro C.P.I.F.P Nuevo ubicado en Campanillas. <br>
-Tengo 17 años y me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
+### ✍ ¡Bienvenido! Soy David Solera Romero ✍
+Estudiante de 17 años de DAM en el centro C.P.I.F.P Nuevo ubicado en el PTA, Campanillas. <br>
+Me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
 Más abajo te dejo los lenguajes y herramientas que puedo manejar. <br>
 
 ### 📋 Proyectos 📋

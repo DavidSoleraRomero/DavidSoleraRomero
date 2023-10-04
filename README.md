@@ -10,7 +10,7 @@ Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> artificia
 En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés). <br>
 ![Image text](https://github.com/DavidSoleraRomero/DavidSoleraRomero/blob/main/ai-gif.gif)
 
-### 🐱‍🏍 Dato curioso 🐱‍🏍
+### 😶‍🌫️ Dato curioso 😶‍🌫️
 El contenido de la web sobre IA, ¡está generado por IA en su mayoría!
 Le he realizado algunos retoques, pero aún así es un logro que sean capaces de generar tanto texto de calidad.
 

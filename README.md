@@ -5,6 +5,19 @@ Mi nombre es David Solera Romero, soy un estudiante de DAM en el centro C.P.I.F.
 Tengo 17 años y me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
 Estoy certificado en ciertos cursos de OpenWebinars, que me permiten profundizar en materia incluso antes de darlo en el grado. <br>
 
+## Lenguajes de programación y herramientas varias:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="./img/html.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="./img/css.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="./img/js.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="./img/mysql.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="./img/git.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" /><br><br>
+
 ### 📋 Proyectos 📋
 Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> artificial-intelligence </strong> <br>
 En esta web, trato de forma general la Inteligencia Artificial y un poco de su historia (hecha principalmente en inglés). <br>

@@ -10,8 +10,9 @@ En esta web, trato de forma general la cultura Steampunk y un poco de su histori
 ![Steampunk Gif](https://i0.wp.com/boingboing.net/wp-content/uploads/2015/10/th.gif?fit=1&resize=600%2C4000&ssl=1)
 
 ### 🎫 Dato curioso 🎫
-El contenido de la web sobre IA, ¡está generado por IA en su mayoría!
+El contenido de la web sobre IA y el de Steampunk, ¡está generado por IA en su mayoría!
 Le he realizado algunos retoques, pero aún así es un logro que sean capaces de generar tanto texto de calidad.
+En concreto se ha utilizado ChatGPT, la cual me ha otorgado información fiable tras haberla rebuscado en la web.
 
 ### Lenguajes y herramientas:
 

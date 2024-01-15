@@ -4,8 +4,8 @@ Me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este ca
 Más abajo te dejo los lenguajes y herramientas que puedo manejar. <br>
 
 ### 📋 Proyectos 📋
-Actualmente, estoy subiendo en GitHub mi proyecto web llamado <strong> steampunk </strong>, el cual ha sido el posterior al de <strong> artificial-intelligence </strong> <br>
-En esta web, trato de forma general la cultura Steampunk y un poco de su historia (hecha principalmente en inglés). <br>
+Actualmente, He subido mi proyecto web llamado <strong> steampunk </strong>, el cual ha sido el posterior al de <strong> artificial-intelligence </strong> <br>
+Trato de forma general la cultura Steampunk y un poco de su historia (hecha principalmente en inglés). <br>
 <br>
 ![Steampunk Gif](https://i0.wp.com/boingboing.net/wp-content/uploads/2015/10/th.gif?fit=1&resize=600%2C4000&ssl=1)
 

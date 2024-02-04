@@ -4,7 +4,7 @@ Me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este ca
 Más abajo te dejo los lenguajes y herramientas que puedo manejar. <br>
 
 ### 📋 Proyectos 📋
-Actualmente, está subido mi proyecto web llamado <strong> steampunk </strong>, el cual ha sido el posterior al de <strong> artificial-intelligence </strong> <br>
+Actualmente, está subido mi proyecto web llamado <strong> Pixel Art </strong>, aunque he hecho otros, como por ejemplo de <strong> Artificial-Intelligence o Steampunk </strong> <br>
 Trato de forma general la cultura Steampunk y un poco de su historia (hecha principalmente en inglés). <br>
 <br>
 Steampunk: https://davidsoleraromero.github.io/steampunk/index.html <br>

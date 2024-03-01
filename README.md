@@ -1,5 +1,5 @@
 ### ✍ ¡Bienvenido! Soy David Solera Romero ✍
-Estudiante de 17 años de DAM en el centro C.P.I.F.P Alan Turing ubicado en el PTA, Campanillas. <br>
+Estudiante de 18 años de DAM en el centro C.P.I.F.P Alan Turing ubicado en el PTA, Campanillas. <br>
 Me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
 Más abajo te dejo los lenguajes y herramientas que puedo manejar. <br>
 

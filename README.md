@@ -4,11 +4,11 @@ Me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este ca
 Más abajo te dejo los lenguajes y herramientas que puedo manejar. <br>
 
 ### 📋 Proyectos 📋
-Actualmente, está subido mi proyecto web llamado <strong> Pixel Art </strong>, aunque he hecho otros, como por ejemplo de <strong> Artificial-Intelligence o Steampunk </strong> <br>
-Trato de forma general la cultura Steampunk y un poco de su historia (hecha principalmente en inglés). <br>
+Actualmente, está subido mi proyecto web llamado <strong> Pixel Art </strong>, aunque he creado otros adicionales, como por ejemplo de <strong> Artificial-Intelligence o Steampunk </strong> <br>
 <br>
 Steampunk: https://davidsoleraromero.github.io/steampunk/index.html <br>
-AI: https://davidsoleraromero.github.io/artificial-intelligence/index.html
+AI: https://davidsoleraromero.github.io/artificial-intelligence/index.html<br>
+Pixel Art: https://davidsoleraromero.github.io/pixel_art/index.html
 <br>
 <br>
 ![Steampunk Gif](https://i0.wp.com/boingboing.net/wp-content/uploads/2015/10/th.gif?fit=1&resize=600%2C4000&ssl=1)

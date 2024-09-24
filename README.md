@@ -11,7 +11,6 @@ AI: https://davidsoleraromero.github.io/artificial-intelligence/index.html<br>
 Pixel Art: https://davidsoleraromero.github.io/pixel_art/index.html
 <br>
 <br>
-![Steampunk Gif](https://i0.wp.com/boingboing.net/wp-content/uploads/2015/10/th.gif?fit=1&resize=600%2C4000&ssl=1)
 
 ### 🎫 Dato curioso 🎫
 El contenido de la web sobre IA y el de Steampunk, ¡está generado por IA en su mayoría! <br>

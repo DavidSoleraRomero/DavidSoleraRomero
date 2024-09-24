@@ -10,7 +10,6 @@ Steampunk: https://davidsoleraromero.github.io/steampunk/index.html <br>
 AI: https://davidsoleraromero.github.io/artificial-intelligence/index.html<br>
 Pixel Art: https://davidsoleraromero.github.io/pixel_art/index.html
 <br>
-<br>
 
 ### 🎫 Dato curioso 🎫
 El contenido de la web sobre IA y el de Steampunk, ¡está generado por IA en su mayoría! <br>

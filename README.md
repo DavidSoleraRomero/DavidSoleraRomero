@@ -11,11 +11,6 @@ AI: https://davidsoleraromero.github.io/artificial-intelligence/index.html<br>
 Pixel Art: https://davidsoleraromero.github.io/pixel_art/index.html
 <br>
 
-### 🎫 Dato curioso 🎫
-El contenido de la web sobre IA y el de Steampunk, ¡está generado por IA en su mayoría! <br>
-Le he realizado algunos retoques, pero aún así es un logro que sean capaces de generar tanto texto de calidad. <br>
-En concreto se ha utilizado ChatGPT, la cual me ha otorgado información fiable tras haberla rebuscado en la web.
-
 ### Lenguajes y herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />

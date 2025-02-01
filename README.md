@@ -12,15 +12,15 @@ Desarrollador en formación con experiencia en:
 ## 🚀 **Proyectos Destacados**
 
 ### ⚙️ **Steampunk**  
-[![Steampunk](https://img.shields.io/badge/🚀_Visitar_Sitio-FF5733?style=for-the-badge&logo=steam&logoColor=white)](https://davidsoleraromero.github.io/steampunk/index.html)  
+[![Steampunk](https://img.shields.io/badge/🚀_Visitar_Sitio-FF5733?style=for-the-badge&logoColor=white)](https://davidsoleraromero.github.io/steampunk/index.html)  
 Web informativa con diseño retro-futurista y mecánica vintage. Desarrollada en 1º de DAM utilizando **HTML, CSS y JavaScript**.  
 
 ### 🤖 **Artificial Intelligence**  
-[![AI](https://img.shields.io/badge/🚀_Visitar_Sitio-2E86C1?style=for-the-badge&logo=ai&logoColor=white)](https://davidsoleraromero.github.io/artificial-intelligence/index.html)  
+[![AI](https://img.shields.io/badge/🚀_Visitar_Sitio-2E86C1?style=for-the-badge&logoColor=white)](https://davidsoleraromero.github.io/artificial-intelligence/index.html)  
 Web informativa sobre inteligencia artificial. Desarrollada en 1º de DAM utilizando **HTML, CSS y JavaScript**.  
 
 ### 🎨 **Pixel Art**  
-[![PixelArt](https://img.shields.io/badge/🚀_Visitar_Sitio-28B463?style=for-the-badge&logo=pixiv&logoColor=white)](https://davidsoleraromero.github.io/pixel_art/index.html)  
+[![PixelArt](https://img.shields.io/badge/🚀_Visitar_Sitio-28B463?style=for-the-badge&logoColor=white)](https://davidsoleraromero.github.io/pixel_art/index.html)  
 Web informativa de arte digital usando como arte los píxeles. Desarrollado en 1º de DAM utilizando **HTML, CSS y JavaScript**.  
 
 ---

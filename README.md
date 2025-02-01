@@ -1,32 +1,49 @@
-### ✍ ¡Bienvenido! Soy David Solera Romero ✍
-Estudiante de 18 años de DAM en el centro C.P.I.F.P Alan Turing ubicado en el PTA, Campanillas. <br>
-Me encanta dedicarle a diario tiempo tanto a aprender cosas nuevas sobre este campo como al ciclo en sí. <br>
-Más abajo te dejo los lenguajes y herramientas que puedo manejar. <br>
+# 👋 ¡Hola! Soy David Solera Romero 
 
-### 📋 Proyectos 📋
-Actualmente, está subido mi proyecto web llamado <strong> Pixel Art </strong>, aunque he creado otros adicionales, como por ejemplo de <strong> Artificial-Intelligence o Steampunk </strong> <br>
-<br>
-Steampunk: https://davidsoleraromero.github.io/steampunk/index.html <br>
-AI: https://davidsoleraromero.github.io/artificial-intelligence/index.html<br>
-Pixel Art: https://davidsoleraromero.github.io/pixel_art/index.html
-<br>
+**🎓 Estudiante de DAM | 🏫 C.P.I.F.P Alan Turing (PTA, Campanillas)**  
+Apasionado del desarrollo software con ganas constantes de aprender y crecer profesionalmente.  
+Dedicación diaria tanto a mi formación académica como a proyectos personales de programación.  
 
-### Lenguajes y herramientas:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/visual_studio_code.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="./img/html.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="./img/css.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="./img/js.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="./img/mysql.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./img/git.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal_dark.svg" /><br><br>
+## 🚀 Proyectos Destacados
 
-### 📩 Contacto 📩
-Si deseas contactar conmigo, puedes hacerlo a través de estos correos: <br>
-<strong>soleraromerodavid@gmail.com (Personal) </strong> <br>
-<strong>dsolrom2312@g.educaand.es (Educativo) </strong> <br>
-O a través de LinkedIn: <br>
-[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/david-solera-romero-300a7a27b/)
+### 🎨 Pixel Art  
+[![Ver Proyecto](https://img.shields.io/badge/🌐-Visitar_Sitio-blue?style=for-the-badge)](https://davidsoleraromero.github.io/pixel_art/index.html)  
+Aplicación web interactiva para crear arte pixelado  
+
+### ⚙️ Steampunk  
+[![Ver Proyecto](https://img.shields.io/badge/🌐-Visitar_Sitio-green?style=for-the-badge)](https://davidsoleraromero.github.io/steampunk/index.html)  
+Web temática con diseño retro-futurista  
+
+### 🤖 Artificial Intelligence  
+[![Ver Proyecto](https://img.shields.io/badge/🌐-Visitar_Sitio-red?style=for-the-badge)](https://davidsoleraromero.github.io/artificial-intelligence/index.html)  
+Plataforma educativa sobre inteligencia artificial  
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📬 Contacto
+
+[![Gmail](https://img.shields.io/badge/soleraromerodavid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soleraromerodavid@gmail.com)
+[![Educaand](https://img.shields.io/badge/dsolrom2312@g.educaand.es-0055A4?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dsolrom2312@g.educaand.es)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-solera-romero-300a7a27b/)

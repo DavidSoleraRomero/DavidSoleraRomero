@@ -9,6 +9,14 @@ Desarrollador en formación con experiencia en:
 
 ---
 
+## 🌟 **Sobre mí**
+
+Actualmente estoy cursando el segundo año del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **C.P.I.F.P Alan Turing**. Durante mi formación, he trabajado en proyectos variados que abarcan desde el desarrollo móvil hasta aplicaciones web y bases de datos. Me apasiona aprender nuevas tecnologías y enfrentar desafíos técnicos que me permitan crecer como desarrollador.
+
+Mis principales áreas de interés incluyen el desarrollo web, la inteligencia artificial y el diseño de interfaces interactivas. Siempre estoy buscando oportunidades para colaborar en proyectos interesantes o para aprender algo nuevo.
+
+---
+
 ## 🚀 **Proyectos Destacados**
 
 ### ⚙️ **Steampunk**  
@@ -49,14 +57,6 @@ Web informativa de arte digital usando como arte los píxeles. Desarrollado en 1
 ## 📊 **Estadísticas de GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsoleraromero&show_icons=true&theme=radical)
-
----
-
-## 🌟 **Sobre mí**
-
-Actualmente estoy cursando el segundo año del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **C.P.I.F.P Alan Turing**. Durante mi formación, he trabajado en proyectos variados que abarcan desde el desarrollo móvil hasta aplicaciones web y bases de datos. Me apasiona aprender nuevas tecnologías y enfrentar desafíos técnicos que me permitan crecer como desarrollador.
-
-Mis principales áreas de interés incluyen el desarrollo web, la inteligencia artificial y el diseño de interfaces interactivas. Siempre estoy buscando oportunidades para colaborar en proyectos interesantes o para aprender algo nuevo.
 
 ---
 

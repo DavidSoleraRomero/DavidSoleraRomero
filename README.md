@@ -1,8 +1,7 @@
-# 👋 ¡Hola! Soy **David Solera Romero**  
-**🎓 Estudiante de 2º DAM | FP Dual en [Aliqindoi](https://www.aliqindoi.com/)**  
-**🏫 C.P.I.F.P Alan Turing (PTA, Campanillas)**  
+# 👋 **David Solera Romero**  
+**🎓 Desarrollador de software en [Aliqindoi](https://www.aliqindoi.com/)**  
 
-Desarrollador en formación con experiencia en:  
+Desarrollador con experiencia en:  
 - Desarrollo de aplicaciones híbridas con **Ionic/Angular** 🖥️  
 - Creación de aplicaciones Android con **Kotlin** 🤖  
 - Desarrollo de proyectos web y sistemas interactivos 🌐  
@@ -11,7 +10,7 @@ Desarrollador en formación con experiencia en:
 
 ## 🌟 **Sobre mí**
 
-Actualmente estoy cursando el segundo año del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **C.P.I.F.P Alan Turing**. Durante mi formación, he trabajado en proyectos variados que abarcan desde el desarrollo móvil hasta aplicaciones web y bases de datos. Me apasiona aprender nuevas tecnologías y enfrentar desafíos técnicos que me permitan crecer como desarrollador.
+Actualmente me encuentro desarrollando para **Aliqindoi** tras haber finalizados mis estudios de **Desarrollo de Aplicaciones Multiplataforma**. Durante mi formación, he trabajado en proyectos variados que abarcan desde el desarrollo móvil hasta aplicaciones web y bases de datos. Me apasiona aprender nuevas tecnologías y enfrentar desafíos técnicos que me permitan crecer como desarrollador.
 
 Mis principales áreas de interés incluyen el desarrollo web, la inteligencia artificial y el diseño de interfaces interactivas. Siempre estoy buscando oportunidades para colaborar en proyectos interesantes o para aprender algo nuevo.
 
